@@ -32,7 +32,7 @@
 * React
 * React Router DOM
 
-## :arrow_forward: What's the funcionalities?
+## :arrow_forward: What's the functionalities?
 
 #### Web
 * Find Teachers to teach you
