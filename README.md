@@ -1,13 +1,15 @@
 <h1 align="center">  Proffy Project: Rocketseat </h1>
   
-![logo](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Design%20sem%20nome.png)
+<p align="center">
+  <img width="460" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Design%20sem%20nome.png">
+</p>
 
 <p align="center"> Proffy is your online study platform where you can search for teachers or, if you're a teacher, you can register your classes! </p>
 
 ## :arrow_forward: Some images
 
 ![initial](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Capturar.PNG)
-![teacher form](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Capturar3.PNG)
+![teacherform](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Capturar3.PNG)
 ![teacher list](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/teacherlist.PNG)
 ![mobile1](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile1.jpeg)
 ![mobile2](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile2.jpeg)
