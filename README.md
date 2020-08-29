@@ -16,12 +16,6 @@
 <img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile1.jpeg">
 <img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile2.jpeg">                           <img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile3.jpeg">        
 </p>
-                                   
-                                   
-                                   
-![mobile1](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile1.jpeg)
-![mobile2](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile2.jpeg)
-![mobile3](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile3.jpeg)
 
 ## Features :computer:
 
