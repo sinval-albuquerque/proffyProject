@@ -17,7 +17,7 @@
 <img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile2.jpeg">                           <img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile3.jpeg">        
 </p>
 
-## Features :computer:
+## :computer: Features 
 
 * React
 * React Native
@@ -46,7 +46,7 @@
 * Create connections with Teachers and students
 * Send messages to your favorite Teacher by Whatsapp
 
-#### Mobile :iphone:
+#### Mobile
 * Use filters to search Teachers
 * Favorites the Teachers you want
 * Send messages to your favorite Teacher by Whatsapp
