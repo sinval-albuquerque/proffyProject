@@ -1,16 +1,24 @@
 <h1 align="center">  Proffy Project: Rocketseat </h1>
   
 <p align="center">
-  <img width="460" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Design%20sem%20nome.png">
+  <img width="400" height="350" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Design%20sem%20nome.png">
 </p>
 
 <p align="center"> Proffy is your online study platform where you can search for teachers or, if you're a teacher, you can register your classes! </p>
 
-## Some images :camera:
+## :camera: Some images 
 
 ![initial](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Capturar.PNG)
-![teacherform](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Capturar3.PNG)
-![teacher list](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/teacherlist.PNG)
+
+<p align="center" float="left">
+<img width="300" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/Capturar3.PNG">
+<img width="600" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/teacherlist.PNG">
+<img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile1.jpeg">
+<img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile2.jpeg">                           <img width="200" height="400" src="https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile3.jpeg">        
+</p>
+                                   
+                                   
+                                   
 ![mobile1](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile1.jpeg)
 ![mobile2](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile2.jpeg)
 ![mobile3](https://github.com/sinval-albuquerque/proffyProject/blob/master/web/src/assets/images/mobile3.jpeg)
